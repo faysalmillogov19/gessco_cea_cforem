@@ -1,0 +1,7 @@
+   table,
+    th,
+    td {
+        
+        /* Styling the border. */
+        border: 1.5px solid blue;
+    }

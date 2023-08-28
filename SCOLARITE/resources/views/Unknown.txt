@@ -1,0 +1,10 @@
+-----------------------------------------------------------------
+Specialite:3. Dermopharmacie et cosmétologie
+Unite: PRATIQUES EN DERMOCOSMETOLOGIE ET EN ESTHETIQUE
+Element:Conseils et pratiques en parfumerie
+-----------------------------------------------------------------
+
+specialite:
+unite:
+element: Homologation : dossiers précliniques et cliniques
+		 Licences  d'établissement et d’exercices professionnnels 
